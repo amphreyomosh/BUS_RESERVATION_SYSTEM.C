@@ -1,0 +1,16 @@
+=>  This is a bus reservation system where the admin can;
+   - Login into the system.
+   - View Buses available.
+   - Book ticket for passenger
+   - Cancel the booking.
+   - Logout from the system.
+
+=>  After the booking process the ticket is generated, which include the number of the seats booked and 
+     the total amount for the booking.
+
+=>  The cancelation of the booking is charged at 100 shillngs per seat.
+
+=> The system informations are stored in textfile: bs1.txt, bs2.txt, bs3.txt, bs4.txt, bs5.txt .
+
+
+
