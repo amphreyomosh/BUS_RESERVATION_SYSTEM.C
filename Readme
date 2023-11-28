@@ -1,9 +1,16 @@
-=>  This is a bus reservation system where the admin can;
-   - Login into the system.
-   - View Buses available.
-   - Book ticket for passenger
-   - Cancel the booking.
-   - Logout from the system.
+  Simba Bus Reservation System
+
+
+  Overview
+ 
+Simba Bus Reservation System is a simple command-line application written in C for managing bus reservations. The system allows users to check bus availability, book tickets, cancel bookings, and view the status of a bus.
+
+Features
+ - Bus Availability: View the available buses and their details.
+ - Book Ticket: Reserve seats on a bus by providing passenger details.
+ - Cancel Booking: Cancel a booking and receive a refund.
+ - Bus Status: Check the status of a bus, including booked seats.
+
 
 =>  After the booking process the ticket is generated, which include the number of the seats booked and 
      the total amount for the booking.
@@ -11,6 +18,8 @@
 =>  The cancelation of the booking is charged at 100 shillngs per seat.
 
 => The system informations are stored in textfile: bs1.txt, bs2.txt, bs3.txt, bs4.txt, bs5.txt .
+
+=> The system also changes color of the screen when it is accessed.
 
 
 
